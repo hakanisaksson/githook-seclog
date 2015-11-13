@@ -5,7 +5,7 @@
 # SYNOPSIS
 
 Git post-receive hook that checks every incoming commit and creates a security log.
-It is assumed that ssh is used to push changes to the repo.
+It is assumed that ssh is used to push changes to the repo. It is also assumed that syslog is configured to immedatelt send the log to a remote server for secure storage.
 
 # OPTIONS
 
