@@ -6,7 +6,7 @@
 
 =head1 NAME
 
-B<post-recieve.gitseclog.pl>
+B<post-receive.gitseclog.pl>
 
 =head1 SYNOPSIS
 

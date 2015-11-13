@@ -1,6 +1,6 @@
 # NAME
 
-**post-recieve.gitseclog.pl**
+**post-receive.gitseclog.pl**
 
 # SYNOPSIS
 
@@ -34,4 +34,4 @@ This script can not give a complete picture of how the git repo is accessed, sim
 
 # AUTHOR
 
-Håkan Isaksson
+Håkan Isaksson, 2013
